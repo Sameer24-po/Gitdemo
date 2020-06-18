@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Elements>
+	
+	<Element title="train">
+		<xpath>//li[@class='menu_Trains']//a[@class='makeFlex hrtlCenter column']</xpath>
+	</Element>
+	<Element title="Login">
+		<xpath>//id[@id='Login']</xpath>
+	</Element>
+	
+	<Element title="logout">
+		<id>logout</id>
+	</Element>
+</Elements>
+	

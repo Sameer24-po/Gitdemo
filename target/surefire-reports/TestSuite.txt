@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 10.241 s <<< FAILURE! - in TestSuite
+Process_steps(wipro.automation.processes.MainProcess)  Time elapsed: 6.679 s  <<< FAILURE!
+java.lang.AssertionError: null
+	at wipro.automation.processes.MainProcess.Process_steps(MainProcess.java:52)
+
+tearDown(wipro.automation.processes.MainProcess)  Time elapsed: 7.731 s  <<< FAILURE!
+java.lang.AssertionError: null
+	at wipro.automation.processes.MainProcess.tearDown(MainProcess.java:62)
+
